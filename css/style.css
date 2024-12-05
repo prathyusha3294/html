@@ -1,0 +1,22 @@
+/* h1{
+    color: blueviolet;
+    background-color: chartreuse;
+}
+
+h2{
+    color:pink;
+    background-color: bisque;
+} */
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.hero-section {
+    background-image: url("../Images/21.jpg");
+    background-size: 300px 900px;
+    background-repeat: no-repeat;
+}
